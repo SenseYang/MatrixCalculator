@@ -1,4 +1,4 @@
-# MatrixCalculator
+# MiniMatlab
 A MATLAB-style command line matrix calculator which supported matrix operations including: 
 
 (1) In-time matrix definition.Including functions of eye(row, col), rand(row, col), zeros(row, col) and direct bracket [] definition.
